@@ -156,6 +156,7 @@
 		43E2A7611A11709F00A0534D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0610;
 				ORGANIZATIONNAME = "Benjamin Chait";
 				TargetAttributes = {
@@ -405,6 +406,7 @@
 				43E2A78A1A1170A000A0534D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		43E2A78B1A1170A000A0534D /* Build configuration list for PBXNativeTarget "ChecklistsTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +415,7 @@
 				43E2A78D1A1170A000A0534D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
